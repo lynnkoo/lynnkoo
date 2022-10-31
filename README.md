@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<a href="javascript: void 0;">
+  <img  align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynnkoo&theme=dracula&layout=compact" />
+</a>
 <!--
 **lynnkoo/lynnkoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
